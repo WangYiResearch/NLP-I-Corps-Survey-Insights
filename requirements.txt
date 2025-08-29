@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+spacy
+bertopic
+transformers
+streamlit
+matplotlib
+seaborn
